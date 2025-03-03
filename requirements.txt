@@ -1,8 +1,8 @@
 langchain
 langgraph
-streamlit
 langchain_community
 langchain_core
-langchain_openai
 langchain_groq
+langchain_openai
 faiss-cpu
+streamlit
